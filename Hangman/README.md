@@ -1,3 +1,3 @@
 <<<<<<< HEAD
-# Simple pythong hangman game
+# Simple python hangman game
 
