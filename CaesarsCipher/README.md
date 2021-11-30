@@ -1,0 +1,1 @@
+#Select encode to encrypt a word and select letter shift amount via a Caesars cipher. Select decode to decrypt initial word with same shift amount.
