@@ -25,7 +25,9 @@ print(logo)
 
 playing = True
 while playing:
-    while comparison_A == comparison_B or correct_answer == 'a' or correct_answer == 'b': # Generate a random int to index into data list as arguments for compare()
+    while comparison_A == comparison_B or correct_answer == 'a' or correct_answer == 'b': 
+        # Generate a random int to index into data list as arguments for compare().
+        # Should have used random.choice() instead
         if correct_answer == 'a':
             comparison_B = random.randint(0, datalength)
             correct_answer = None
