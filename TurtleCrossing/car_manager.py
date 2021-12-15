@@ -1,4 +1,4 @@
-from turtle import Turtle, st
+from turtle import Turtle
 import random
 from typing import NewType
 
