@@ -1,4 +1,3 @@
-from os import scandir
 from turtle import Turtle, screensize
 
 ALIGNMENT = 'center'
